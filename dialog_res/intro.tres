@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="DialogContent" load_steps=3 format=3 uid="uid://6cgcb6vpvwe8"]
+
+[ext_resource type="Script" uid="uid://ca13e5o003xtq" path="res://dialog_content_entry.gd" id="1_3vf61"]
+[ext_resource type="Texture2D" uid="uid://73ewxg8e50y1" path="res://assets/2.png" id="1_uw12j"]
+
+[resource]
+script = ExtResource("1_3vf61")
+avatar = ExtResource("1_uw12j")
+content = "各位悠民們早午晚安\\.
+我是轉生到異世界
+卻發現無法汲取魔力
+因此成為虛形使者的魔王
+水無月悠歌"
+metadata/_custom_type_script = "uid://ca13e5o003xtq"
